@@ -49,7 +49,9 @@ shell
 
 Here is an example of how the clear.rs program looks when executed:
 
-/img/progam.jpg
+<p align="center">
+  <img src="img/cache.png" alt="programa">
+</p>
 
 
 If you find any issues with the clear.rs program or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository.
