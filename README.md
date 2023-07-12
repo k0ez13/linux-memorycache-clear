@@ -21,7 +21,6 @@ To compile the clear.rs program, follow these steps:
 
     rustc clear.rs
 
-    This will generate an executable file named clear or clear.exe (on Windows) in the same directory.
 
 ### Execution
 
