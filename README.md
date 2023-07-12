@@ -37,13 +37,6 @@ To run the compiled clear program, follow these steps:
 
 ./clear
 
-or (on Windows):
-
-shell
-
-    clear.exe
-
-    This will clear the terminal screen.
 
 ### Example
 
